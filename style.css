@@ -1,0 +1,18 @@
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 1.3em;
+    width: 16vw;
+}
+
+#calculator {
+    margin: 0 auto;
+    width: 60vw;
+}
+
+#numbers, #operators {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 5vh;
+}
